@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sports Archives - Campus Events</title>
+	<atom:link href="/tag/sports/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/sports/</link>
+	<description>CMC Campus events</description>
+	<lastBuildDate>Thu, 06 Apr 2023 09:02:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>KPTR Basketball coaching</title>
+		<link>/2023/04/06/kptr-basketball-coaching/</link>
+		
+		<dc:creator><![CDATA[Vinay Oommen]]></dc:creator>
+		<pubDate>Thu, 06 Apr 2023 09:02:39 +0000</pubDate>
+				<category><![CDATA[KPTR]]></category>
+		<category><![CDATA[sports]]></category>
+		<category><![CDATA[Sports]]></category>
+		<guid isPermaLink="false">/?p=404</guid>
+
+					<description><![CDATA[<p>Basketball coaching for staff children (8 years and above)</p>
+<p>The post <a rel="nofollow" href="/2023/04/06/kptr-basketball-coaching/">KPTR Basketball coaching</a> appeared first on <a rel="nofollow" href="">Campus Events</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Basketball coaching for staff children (8 years and above)</p>
+<p>The post <a rel="nofollow" href="/2023/04/06/kptr-basketball-coaching/">KPTR Basketball coaching</a> appeared first on <a rel="nofollow" href="">Campus Events</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

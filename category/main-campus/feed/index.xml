@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Main Campus Archives - Campus Events</title>
+	<atom:link href="/category/main-campus/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/main-campus/</link>
+	<description>CMC Campus events</description>
+	<lastBuildDate>Thu, 06 Apr 2023 09:43:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Passion &#8211; Sing Song Service at the Hospital Chapel</title>
+		<link>/2023/03/29/passion-sing-song-service-at-the-hospital-chapel/</link>
+		
+		<dc:creator><![CDATA[Vinay Oommen]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2023 10:55:19 +0000</pubDate>
+				<category><![CDATA[Chaplaincy]]></category>
+		<category><![CDATA[Main Campus]]></category>
+		<guid isPermaLink="false">/?p=235</guid>
+
+					<description><![CDATA[<p>Join us for &#8220;Passion&#8221; &#8211; a sing song service in the Hospital Chapel on 2nd April at 6:00 pm. Presented by Chaplaincy, CMC Vellore.</p>
+<p>The post <a rel="nofollow" href="/2023/03/29/passion-sing-song-service-at-the-hospital-chapel/">Passion &#8211; Sing Song Service at the Hospital Chapel</a> appeared first on <a rel="nofollow" href="">Campus Events</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Join us for &#8220;Passion&#8221; &#8211; a sing song service in the Hospital Chapel on 2nd April at 6:00 pm. Presented by Chaplaincy, CMC Vellore.</p>
+<p>The post <a rel="nofollow" href="/2023/03/29/passion-sing-song-service-at-the-hospital-chapel/">Passion &#8211; Sing Song Service at the Hospital Chapel</a> appeared first on <a rel="nofollow" href="">Campus Events</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

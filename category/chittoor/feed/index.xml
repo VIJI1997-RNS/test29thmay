@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chittoor Archives - Campus Events</title>
+	<atom:link href="/category/chittoor/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/chittoor/</link>
+	<description>CMC Campus events</description>
+	<lastBuildDate>Thu, 06 Apr 2023 09:43:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Resurrection Morn &#8211; Presented by the CMC Chittoor Choir</title>
+		<link>/2023/03/29/resurrection-morn-presented-by-the-cmc-chittoor-choir/</link>
+		
+		<dc:creator><![CDATA[Vinay Oommen]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2023 10:34:21 +0000</pubDate>
+				<category><![CDATA[Chaplaincy]]></category>
+		<category><![CDATA[Chittoor]]></category>
+		<guid isPermaLink="false">/?p=226</guid>
+
+					<description><![CDATA[<p>The CMC Choir at Chittoor presents "Resurrection Morn", an Easter Musical. </p>
+<p>The post <a rel="nofollow" href="/2023/03/29/resurrection-morn-presented-by-the-cmc-chittoor-choir/">Resurrection Morn &#8211; Presented by the CMC Chittoor Choir</a> appeared first on <a rel="nofollow" href="">Campus Events</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The CMC Choir at Chittoor presents &#8220;Resurrection Morn&#8221;, an Easter Musical. This will be held on 4th of April (Tuesday) at 6:00 pm at the CMC Chittoor patient waiting area (Near Chapel).</p>
+<p>The post <a rel="nofollow" href="/2023/03/29/resurrection-morn-presented-by-the-cmc-chittoor-choir/">Resurrection Morn &#8211; Presented by the CMC Chittoor Choir</a> appeared first on <a rel="nofollow" href="">Campus Events</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
